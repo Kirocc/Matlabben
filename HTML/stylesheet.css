@@ -10,7 +10,7 @@ ul {list-style-type: none; margin: 0; padding: 0;  margin: 0;
      overflow: hidden; position: absolute; left: 650px; background-color: #333; 
    }
 
-#ingredienserList {list-style-type: none; margin: 0; padding: 0;  margin: 0;
+#ingredienserList { padding: 0;  margin: 0;
     overflow: hidden; position: absolute; left: 650px; top: 700px;  
   }
 li { display: inline; float: left;} 
@@ -29,3 +29,5 @@ text-decoration: none;
 li a:hover {
 background-color: #03e629;
 }
+.bottom-column b {
+  display: block; }
