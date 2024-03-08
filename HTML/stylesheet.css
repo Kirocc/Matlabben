@@ -5,9 +5,10 @@ img { position:absolute; left: 380px;}
 h1 { position: absolute; left: 650px; top: 530px; } 
 
 #ingredienser { position: absolute; left: 650px; top: 600px; } 
-#Görsåhär { position: absolute; left: 1450px; top: 200px; } 
-#görsåhärList { padding: 0;  margin: 0;
-  overflow: hidden; position: absolute; left: 1250px; top: 300px;  }
+#Görsåhär { position: absolute; left: 1350px; top: 200px; } 
+#Svårighet { position: absolute; left: 250px; top: 200px; }
+#görsåhärList { padding: 0;  margin: 0; overflow: hidden; position: absolute; left: 1150px; top: 300px;  } 
+#Namn { position: absolute; left: 100px; top: 800px; }
 ul {list-style-type: none; margin: 0; padding: 0;  margin: 0;
      overflow: hidden; position: absolute; left: 650px; background-color: #333; 
    }
@@ -35,4 +36,7 @@ background-color: #03e629;
   display: block; }
 
 
-  input { position:absolute; top: 200;}
+  input { position:absolute; top: 200; left: 750px;} 
+  #submit { position:absolute; top: 250; left: 850px;} 
+  #sök { position:absolute; top: 100; left: 800px;} 
+  #filter {position:absolute; top: 200; left: 550px;} 
